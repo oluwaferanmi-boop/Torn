@@ -1,2 +1,0 @@
-# Torn
-For Torn game
